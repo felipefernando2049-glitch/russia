@@ -1,0 +1,12 @@
+PERSONALIZAR RÁPIDO
+
+1. Abra o arquivo index.html no navegador.
+2. Role até “Personal touch”.
+3. Troque:
+   - Her name
+   - Your name
+   - A tiny memory
+4. Pronto.
+
+Opcional: você pode enviar o link com parâmetros, por exemplo:
+index.html?name=Anna&from=Fernando&memory=our%20first%20funny%20mistake

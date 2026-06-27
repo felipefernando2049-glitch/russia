@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 560" role="img" aria-label="Aurora window">
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#21164d"/>
+      <stop offset=".45" stop-color="#12314a"/>
+      <stop offset="1" stop-color="#130b2b"/>
+    </linearGradient>
+    <linearGradient id="aurora" x1="80" x2="485" y1="92" y2="215" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#80f2dc" stop-opacity=".95"/>
+      <stop offset=".48" stop-color="#ff8bd8" stop-opacity=".76"/>
+      <stop offset="1" stop-color="#ffd58c" stop-opacity=".82"/>
+    </linearGradient>
+  </defs>
+  <rect x="50" y="38" width="460" height="470" rx="190" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.2)" stroke-width="4"/>
+  <rect x="78" y="62" width="404" height="420" rx="168" fill="url(#sky)"/>
+  <path d="M90 182c80-84 145 35 215-36 76-78 112 20 168-42v97c-62 42-111-6-169 42-73 60-143-27-214 45Z" fill="url(#aurora)" opacity=".82"/>
+  <path d="M100 232c78-44 135 30 203-18 80-56 123-10 170-42" fill="none" stroke="#80f2dc" stroke-opacity=".55" stroke-width="16" stroke-linecap="round"/>
+  <g fill="#fff">
+    <circle cx="159" cy="130" r="3"/><circle cx="226" cy="101" r="2"/><circle cx="322" cy="142" r="3"/><circle cx="417" cy="112" r="2.5"/><circle cx="388" cy="246" r="2"/><circle cx="144" cy="270" r="2.5"/>
+  </g>
+  <path d="M80 390c62-52 122-45 172-16 60 35 138 35 230-31v139H78Z" fill="#100d24" opacity=".94"/>
+  <path d="M111 430c52-45 106-38 155-13 57 29 126 22 188-25" fill="none" stroke="#80f2dc" stroke-width="3" stroke-opacity=".38"/>
+</svg>

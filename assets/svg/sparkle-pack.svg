@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Sparkles and hearts">
+  <defs><linearGradient id="s" x1="38" x2="286" y1="26" y2="219"><stop stop-color="#ffd58c"/><stop offset=".5" stop-color="#ff8bd8"/><stop offset="1" stop-color="#80f2dc"/></linearGradient></defs>
+  <rect x="42" y="28" width="236" height="184" rx="42" fill="rgba(255,255,255,.1)" stroke="rgba(255,255,255,.22)" stroke-width="4"/>
+  <path d="M160 184s-67-41-67-87c0-21 16-36 36-36 14 0 25 7 31 19 6-12 17-19 31-19 20 0 36 15 36 36 0 46-67 87-67 87Z" fill="url(#s)"/>
+  <path d="M72 44l9 23 24 9-24 9-9 24-9-24-23-9 23-9Z" fill="#80f2dc"/>
+  <path d="M259 128l7 18 19 7-19 7-7 19-7-19-18-7 18-7Z" fill="#ffd58c"/>
+  <circle cx="120" cy="111" r="8" fill="#fff" opacity=".75"/><circle cx="203" cy="104" r="6" fill="#fff" opacity=".65"/>
+</svg>

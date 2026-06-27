@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 260" role="img" aria-label="Decorative bridge between Brazil and Russia">
+  <defs><linearGradient id="b" x1="50" x2="450" y1="130" y2="130"><stop stop-color="#ffd58c"/><stop offset=".5" stop-color="#80f2dc"/><stop offset="1" stop-color="#ff8bd8"/></linearGradient></defs>
+  <rect width="500" height="260" rx="34" fill="#171139"/>
+  <path d="M74 172C160 62 248 220 426 82" fill="none" stroke="url(#b)" stroke-width="8" stroke-linecap="round" stroke-dasharray="2 18"/>
+  <circle cx="74" cy="172" r="22" fill="#ffd58c"/><circle cx="426" cy="82" r="22" fill="#ff8bd8"/>
+  <text x="74" y="178" text-anchor="middle" font-family="Arial" font-size="18" font-weight="800" fill="#171139">BR</text>
+  <text x="426" y="88" text-anchor="middle" font-family="Arial" font-size="18" font-weight="800" fill="#171139">RU</text>
+</svg>

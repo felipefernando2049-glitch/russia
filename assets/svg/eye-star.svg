@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" role="img" aria-label="Bright eye and star">
+  <defs><linearGradient id="e" x1="53" x2="246" y1="120" y2="120"><stop stop-color="#80f2dc"/><stop offset="1" stop-color="#b9a4ff"/></linearGradient></defs>
+  <path d="M30 121c38-56 78-78 120-78s82 22 120 78c-38 56-78 78-120 78s-82-22-120-78Z" fill="rgba(255,255,255,.12)" stroke="rgba(255,255,255,.32)" stroke-width="7"/>
+  <circle cx="150" cy="121" r="52" fill="url(#e)"/>
+  <circle cx="150" cy="121" r="25" fill="#100d24"/>
+  <circle cx="166" cy="101" r="12" fill="#fff"/>
+  <path d="M245 36l8 21 22 8-22 8-8 21-8-21-22-8 22-8Z" fill="#ffd58c"/>
+  <path d="M63 42l6 14 15 6-15 6-6 15-6-15-15-6 15-6Z" fill="#ff8bd8"/>
+</svg>

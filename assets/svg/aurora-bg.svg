@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" preserveAspectRatio="none" role="img" aria-label="Decorative aurora background">
+  <defs><linearGradient id="aur" x1="0" x2="1" y1="0" y2="0"><stop stop-color="#80f2dc"/><stop offset=".5" stop-color="#ff8bd8"/><stop offset="1" stop-color="#ffd58c"/></linearGradient></defs>
+  <rect width="1200" height="800" fill="#100d24"/>
+  <path d="M0 270C170 110 250 360 410 210S650 120 780 230s250 40 420-120v250c-180 145-315 180-455 60s-280-30-425 70S120 470 0 590Z" fill="url(#aur)" opacity=".48"/>
+</svg>
